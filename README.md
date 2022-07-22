@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erick435
-- 👀 I’m interested in programming and want to soon create my very first app/webiste
+- 👀 I’m interested in programming and want to soon build many projects
 - 🌱 I’m currently learning C++, html, and CSS
 - 📫 How to reach me: Discord: shut435
 - Interest/hobbies: Play/Watch Sports (Mostly Basketball/volleyball), Play Guitar (although not very good 🥲), Favorite Genre of music: Rock, Pop, Alternative, (But I could listen to other genres as well) 
